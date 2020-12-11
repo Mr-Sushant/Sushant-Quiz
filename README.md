@@ -15,6 +15,7 @@ var ques1 = {
 
 ## Working
 
+![Screenshot of working](https://github.com/Mr-Sushant/Sushant-Quiz/blob/main/img/ss1.jpg)
 
 ## Lessons Learned
 
